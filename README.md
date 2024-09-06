@@ -13,6 +13,10 @@ Mind Vault is a modern, dynamic note-taking web app designed to help users captu
 - **Backend:** Convex serverless database
 - **Other Tools:** ESLint, PostCSS
 
+## Screenshots
+
+![alt text](/assets/msedge_CzrwQTPGQA.png) ![alt text](/assets/msedge_eY2pWZ4fgx.png) ![alt text](/assets/msedge_I33fe0SG2J.png)
+
 ## Installation
 1. Clone the repository:
    ```bash
